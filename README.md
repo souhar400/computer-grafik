@@ -4,21 +4,21 @@ Das Projekt findet im Rahmen des Moduls **Computergrafik** im 5. Semester statt.
 
 
 ## Ziele und Beschreibung des Praktikums
-**Praktikum 1:** 
+### Praktikum 1: 
 - Einarbeitung in die einzelnen Komponenten von WebGL 1.0 (OpenGL ES 2.0 / GLSL ES 1.00)
 - Erarbeitung der Grundlagen der objektorientierten Programmierung mit JavaScript und der OpenGL Rendering Pipeline
 - Beschäftigung mit den Grundprinzipien des Grafikstandards und Erstellung erster 2D/3D Objekte mittels OpenGL Grafik-Primitiven und Shadern.
-**Praktikum 2:** 
+### Praktikum 2:
 - Aufbauen einer komplexen 3D-Szene mit Hilfe des Scenegraphen 
 - Binden der Tastatursteuerung in den Scenegraphen 
-**Praktikum 3:** 
+### Praktikum 3: 
 - Beschäftigung mit der Kamera
 - Beschäftgiung insbesondere mit der perspektivischen Projektion 
 - Bringen der Szene in Bewegung
-**Praktikum 4:** 
+### Praktikum 4:
 - Einsetzen des Phong-Beleuchtungsmodells 
 - Setzen von Licht und Materialeigenschaften, damit die Szene ein realistischeres Aussehen hat 
-**Praktikum 5:** 
+### Praktikum 5: 
 - Integration von Texturen in die Szene
 - Eine komplexe Szene bauen 
 - Bewegung des Beobachter durch den Raum 
